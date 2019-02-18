@@ -1,0 +1,10 @@
+swaggertocxf\dto\ApiFailureResponseDTO$MessageEnum.class
+swaggertocxf\dto\MoleculeDTO$TypeEnum.class
+swaggertocxf\MoleculeApi.class
+swaggertocxf\factories\MoleculeApiServiceFactory.class
+swaggertocxf\ApiResponseMessage.class
+swaggertocxf\dto\MoleculeDTO.class
+swaggertocxf\impl\MoleculeApiServiceImpl.class
+swaggertocxf\MoleculeApiService.class
+swaggertocxf\dto\ApiFailureResponseDTO.class
+swaggertocxf\ApiException.class
